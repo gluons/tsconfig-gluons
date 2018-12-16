@@ -6,6 +6,8 @@
 
 ## Installation
 
+**Require TypeScript version >= 3.2**
+
 ```bash
 npm install -D tsconfig-gluons
 # Or
