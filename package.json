@@ -1,0 +1,30 @@
+{
+  "name": "tsconfig-gluons",
+  "version": "1.0.0",
+  "description": "Gluons' personal TypeScript config.",
+  "main": "./tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluons/tsconfig-gluons.git"
+  },
+  "keywords": [
+    "❤️",
+    "typescript",
+    "ts",
+    "tsconfig",
+    "gluons"
+  ],
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gluons/tsconfig-gluons/issues"
+  },
+  "homepage": "https://github.com/gluons/tsconfig-gluons",
+  "peerDependencies": {
+    "typescript": ">=3.2"
+  }
+}
