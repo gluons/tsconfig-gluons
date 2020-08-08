@@ -4,7 +4,8 @@
   "description": "Gluons' personal TypeScript config.",
   "main": "./tsconfig.json",
   "files": [
-    "tsconfig.json"
+    "tsconfig.json",
+    "browser.json"
   ],
   "scripts": {},
   "repository": {
