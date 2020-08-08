@@ -1,16 +1,17 @@
 {
+	"display": "Gluons - Main",
 	"compilerOptions": {
-		"module": "commonjs",
-		"moduleResolution": "node",
-		"target": "es5",
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"target": "ES2015",
 		"lib": [
-			"es2015"
+			"ESNext"
 		],
 		"esModuleInterop": true,
-		"outDir": "dist",
 		"sourceMap": true,
 		"declaration": true,
 		"noUnusedLocals": true,
-		"noUnusedParameters": true
+		"noUnusedParameters": true,
+		"strict": true
 	}
 }
